@@ -1,0 +1,21 @@
+/* p{
+   5249136444956600889.jpg
+}
+img{
+    border-style: solid;
+    width : 400px;
+    border-color: rgb(0, 0, 0);
+    border-width: 0.1px;;
+} */
+ p{
+    color: rgb(4, 80, 8);
+ }
+img
+ {
+ border: solid 12px rgb(109, 3, 248) ;
+ width : 400px;
+
+ }
+ h1{
+    color: rgb(255, 255, 255);
+ }

@@ -1,0 +1,29 @@
+p{
+    color: #790202;
+}
+.footer{
+    color: blue;
+}
+.header{
+    font-size: 50px;
+}
+img{
+    width: 200px;
+}
+.main{color: rgb(131, 107, 219);
+
+}
+body{
+    background-color: rgba(0, 255, 213, 0.493);
+}
+ul{
+    list-style-type:lower-alpha
+}
+.main{
+    text-shadow: 1px 3px 5px rgb(223, 78, 203);
+}
+
+
+/* {
+    text-decoration: none;
+} */
